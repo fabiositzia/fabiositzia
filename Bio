@@ -1,0 +1,39 @@
+*Testo corsivo*
+_Testo corsivo_
+**Testo in grassetto**
+__Testo in grassetto__
+***Testo in corsivo e grassetto***
+___Testo in corsivo e grassetto___
+
+~~Questo testo è barrato.~~ Ma questo no.
+
+# Intestazione 1
+## Intestazione 2
+### Intestazione 3
+#### Intestazione 4
+##### Intestazione 5
+###### Intestazione 6
+
+Intestazione 1
+=
+Intestazione 2
+-
+
+>Questa è un’**area rientrata**.
+>L’area prosegue anche qui.
+
+>Questa è un‘altra **area rientrata**.
+Anche quest’area continua nella riga successiva.
+
+Questa riga invece non è più rientrata.
+
+- Punto 1 della lista
+- Punto 2 della lista
+- Punto 3 della lista
+
+![Ecco un’immagine di esempio](https://example.com/immagine.jpg)
+
+
+
+
+
