@@ -1,6 +1,16 @@
 # 💻Fabio Sitzia🔙🔚
 Coding newbie👶🏻
-### Hi there 👋
 
 
-### 🌱 I’m currently learning *C*, *MySQL*, *Java*
+
+### 🌱 I’m currently learning:
+
+> #### 1. *C* | *MySQL* | *Java*
+
+
+
+
+
+
+
+###### ![Profile views](https://gpvc.arturio.dev/fabiositzia)
