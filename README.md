@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning:
 
 > #### 1. *C* | *Java* ➡️ *Spring🌱Boot* | *C#* ➡️ *ASP.NET* | *Python*🐍(basic) 
-> #### 2. *Networking Basics*🌐🔗
+> #### 2. *Networking Basics*🌐 🔗
 > #### 3. *MySQL*🗄️
 > #### 4. *HTML* | *CSS*📑 | *Bootstrap* 
 > #### 5. *JavaScript* | *TypeScript* ➡️ *Angular*🆖 | *Node.js*
